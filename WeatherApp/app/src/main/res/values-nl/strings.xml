@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="hello_world">Hallo wereld!</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="menu_refresh">Ververs</string>
+    <string name="menu_help">Help</string>
+</resources>
