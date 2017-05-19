@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Voorbeeld</string>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="welcomestring">Welkom in de wondere wereld van Android Studio</string>
+</resources>
